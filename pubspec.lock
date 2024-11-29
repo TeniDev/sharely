@@ -922,6 +922,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.1.0"
+  sharely_ui:
+    dependency: "direct main"
+    description:
+      path: "packages/sharely_ui"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   shelf:
     dependency: transitive
     description:

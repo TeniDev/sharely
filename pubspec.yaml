@@ -17,6 +17,8 @@ dependencies:
   # Graphics
   animate_do: ^3.3.4
   cupertino_icons: ^1.0.8
+  sharely_ui:
+    path: packages/sharely_ui
 
   # State Management
   bloc: ^8.1.4
